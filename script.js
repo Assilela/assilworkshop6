@@ -24,7 +24,7 @@ var models = [
     {
         url: './assets/mouse/scene.gltf',
         scale: '0.5 0.5 0.5',
-        info: 'Mag',
+        info: 'MOUSE',
         rotation: '0 180 0',
     },
     {
@@ -34,10 +34,10 @@ var models = [
         info: 'poisson',
     },
     {
-        url: './assets/pc/scene.gltf',
+        url: './assets/pc souris/scene.gltf',
         scale: '0.08 0.08 0.08',
         rotation: '0 180 0',
-        info: 'pc',
+        info: 'pc souris',
     },
 ];
 
