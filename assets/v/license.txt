@@ -1,0 +1,11 @@
+Model Information:
+* title:	Карета середины 19 века
+* source:	https://sketchfab.com/3d-models/19-13e9af3b199d491bbc02817790bc9964
+* author:	Department Historical Information Science MSU (https://sketchfab.com/jekelon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Карета середины 19 века" (https://sketchfab.com/3d-models/19-13e9af3b199d491bbc02817790bc9964) by Department Historical Information Science MSU (https://sketchfab.com/jekelon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
