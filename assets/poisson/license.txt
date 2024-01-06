@@ -1,0 +1,11 @@
+Model Information:
+* title:	Poisson Pilote2
+* source:	https://sketchfab.com/3d-models/poisson-pilote2-da9c4c62f34c4597ad04947d7922e791
+* author:	Jalapeno77 (https://sketchfab.com/Jalapeno77)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Poisson Pilote2" (https://sketchfab.com/3d-models/poisson-pilote2-da9c4c62f34c4597ad04947d7922e791) by Jalapeno77 (https://sketchfab.com/Jalapeno77) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
